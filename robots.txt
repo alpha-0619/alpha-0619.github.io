@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alpha-0619.github.io/taiwan-menus/sitemap.xml
+Sitemap: https://alpha-0619.github.io/bangkok-menus/sitemap.xml
+Sitemap: https://alpha-0619.github.io/france-menus/sitemap.xml
+Sitemap: https://alpha-0619.github.io/usa-menus/sitemap.xml
